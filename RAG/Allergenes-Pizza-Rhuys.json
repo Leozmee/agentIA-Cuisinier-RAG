@@ -1,0 +1,165 @@
+{
+  "pizzas": {
+    "Dessert": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza dessert avec gluten et produits laitiers"
+    },
+    "Biodélice": {
+      "allergenes": ["Céréales contenant du gluten", "Œufs", "Lait", "Fruits à coques"],
+      "description": "Pizza bio avec œufs et fruits à coque"
+    },
+    "Végane": {
+      "allergenes": ["Céréales contenant du gluten"],
+      "description": "Pizza végane, contient uniquement du gluten"
+    },
+    "Margherita": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza classique margherita avec mozzarella"
+    },
+    "Guiguitte Jambon": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza jambon avec fromage"
+    },
+    "Guiguitte Chorizo": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza chorizo avec fromage"
+    },
+    "Guiguitte Chèvre": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza au fromage de chèvre"
+    },
+    "Guiguitte Merguez": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza merguez avec fromage"
+    },
+    "Guiguitte Bœuf": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza bœuf avec fromage"
+    },
+    "Cazimir": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza spécialité Cazimir"
+    },
+    "Coët Navalen": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza Coët Navalen"
+    },
+    "Steak": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza steak avec fromage"
+    },
+    "3 Fromages": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza aux trois fromages"
+    },
+    "Super Regina": {
+      "allergenes": ["Céréales contenant du gluten", "Œufs", "Lait"],
+      "description": "Pizza regina avec œufs et fromage"
+    },
+    "Italienne": {
+      "allergenes": ["Céréales contenant du gluten", "Poissons", "Lait", "Anhydrides sulfureux et Sulfites"],
+      "description": "Pizza italienne avec anchois et sulfites"
+    },
+    "Cow Boy": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza cow boy western"
+    },
+    "Bellevue": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza Bellevue"
+    },
+    "Daniel": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza Daniel"
+    },
+    "Croq Terroir": {
+      "allergenes": ["Céréales contenant du gluten", "Œufs", "Lait"],
+      "description": "Pizza terroir avec œufs"
+    },
+    "Pont Romaine": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza Pont Romaine"
+    },
+    "Burger": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza burger"
+    },
+    "Boceno": {
+      "allergenes": ["Céréales contenant du gluten", "Lait", "Céleri"],
+      "description": "Pizza Boceno avec céleri"
+    },
+    "Cot Cot": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza Cot Cot"
+    },
+    "O'Bama": {
+      "allergenes": ["Céréales contenant du gluten", "Lait"],
+      "description": "Pizza O'Bama"
+    },
+    "Chaucharde": {
+      "allergenes": ["Céréales contenant du gluten", "Poissons", "Lait"],
+      "description": "Pizza Chaucharde aux fruits de mer"
+    },
+    "Douarnenez": {
+      "allergenes": ["Céréales contenant du gluten", "Poissons", "Soja", "Lait"],
+      "description": "Pizza Douarnenez aux poissons et soja"
+    },
+    "Authentique": {
+      "allergenes": ["Céréales contenant du gluten", "Lait", "Anhydrides sulfureux et Sulfites"],
+      "description": "Pizza authentique avec sulfites"
+    },
+    "Découverte": {
+      "allergenes": ["Céréales contenant du gluten", "Crustacés", "Lait", "Graines de Sésame", "Mollusques"],
+      "description": "Pizza découverte avec fruits de mer et sésame"
+    },
+    "Truffe": {
+      "allergenes": ["Céréales contenant du gluten", "Lait", "Anhydrides sulfureux et Sulfites"],
+      "description": "Pizza à la truffe avec sulfites"
+    },
+    "Originale": {
+      "allergenes": ["Céréales contenant du gluten", "Lait", "Fruits à coques", "Anhydrides sulfureux et Sulfites"],
+      "description": "Pizza originale avec fruits à coque"
+    }
+  },
+  "desserts": {
+    "Glace sorbet": {
+      "allergenes": [],
+      "description": "Glace sorbet sans allergènes majeurs"
+    },
+    "Crème glacée selon parfum": {
+      "allergenes": ["Soja", "Lait", "Fruits à coques"],
+      "description": "Crème glacée avec allergènes variables selon parfum"
+    }
+  },
+  "allergens_reference": {
+    "Céréales contenant du gluten": "Blé, seigle, orge, avoine, épeautre, kamut, froment",
+    "Crustacés": "Crevettes, homards, crabes",
+    "Œufs": "Œufs et produits à base d'œufs",
+    "Poissons": "Poissons et produits à base de poissons",
+    "Arachides": "Arachides et produits à base d'arachides",
+    "Soja": "Soja et produits à base de soja",
+    "Lait": "Lait et produits à base de lait (y compris lactose)",
+    "Fruits à coques": "Amandes, Noisettes, Noix, Noix de Cajou, Noix de Pécan, Noix du Brésil, Pistaches, Noix de Macadamia et Noix du Queensland",
+    "Céleri": "Céleri et produits à base de céleri",
+    "Moutarde": "Moutarde et produits à base de moutarde",
+    "Graines de Sésame": "Graines de sésame et produits à base de graines de sésame",
+    "Anhydrides sulfureux et Sulfites": "Si la quantité d'anhydride sulfureux et sulfites est supérieure à 10 mg/kg de produit fini",
+    "Lupin": "Lupin et produits à base de lupin",
+    "Mollusques": "Mollusques et produits à base de mollusques"
+  },
+  "notes_importantes": {
+    "pizza_sans_gluten": "Pizza préparée et cuite dans une ambiance contenant du gluten, autres allergènes selon recette choisie",
+    "traces_possibles": "Les pizzas peuvent contenir des traces de crustacés, œufs, poissons, arachides, lait, fruits à coques, céleri, moutarde, graines de sésame, anhydrides sulfureux et sulfites, mollusques.",
+    "reglementation": "Règlement européen n° 1169/2011 relatif à l'information des consommateurs sur les denrées alimentaires",
+    "mise_a_jour": "juin-24",
+    "avertissement": "Les informations présentes dans ce document sont issues des données transmises par nos fournisseurs et concernent les allergènes d'ingrédients volontairement incorporés dans la recette. Nous ne pouvons pas exclure une présence fortuite d'autres allergènes qui serait survenue lors de la fabrication chez le fournisseur ou lors de l'utilisation des produits dans nos restaurants"
+  },
+  "recherche_facile": {
+    "pizzas_sans_oeufs": ["Dessert", "Végane", "Margherita", "Guiguitte Jambon", "Guiguitte Chorizo", "Guiguitte Chèvre", "Guiguitte Merguez", "Guiguitte Bœuf", "Cazimir", "Coët Navalen", "Steak", "3 Fromages", "Italienne", "Cow Boy", "Bellevue", "Daniel", "Pont Romaine", "Burger", "Boceno", "Cot Cot", "O'Bama", "Chaucharde", "Douarnenez", "Authentique", "Découverte", "Truffe", "Originale"],
+    "pizzas_avec_oeufs": ["Biodélice", "Super Regina", "Croq Terroir"],
+    "pizzas_sans_poisson": ["Dessert", "Biodélice", "Végane", "Margherita", "Guiguitte Jambon", "Guiguitte Chorizo", "Guiguitte Chèvre", "Guiguitte Merguez", "Guiguitte Bœuf", "Cazimir", "Coët Navalen", "Steak", "3 Fromages", "Super Regina", "Cow Boy", "Bellevue", "Daniel", "Croq Terroir", "Pont Romaine", "Burger", "Boceno", "Cot Cot", "O'Bama", "Authentique", "Truffe", "Originale"],
+    "pizzas_avec_poisson": ["Italienne", "Chaucharde", "Douarnenez", "Découverte"],
+    "pizzas_vegetariennes": ["Végane", "Margherita", "3 Fromages"],
+    "pizzas_avec_fruits_de_mer": ["Découverte"]
+  }
+}

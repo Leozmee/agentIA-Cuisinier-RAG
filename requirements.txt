@@ -1,20 +1,69 @@
-requests
-langchain
-langchain-community
-langchain-core
-langchain-ollama
-feedparser
-wikipedia-api
-uvicorn
-fastapi
-python-dotenv
-numpy
-matplotlib
+# Core dependencies
+requests==2.32.4
+python-dotenv==1.1.1
+numpy==2.3.1
+
+# LangChain ecosystem
+langchain==0.3.26
+langchain-community==0.3.26
+langchain-core==0.3.67
+langchain-ollama==0.3.3
+langchain-chroma==0.2.4
+langsmith==0.4.4
+
+# Vector database
+chromadb==1.0.13
+
+# PDF processing
+PyPDF2==3.0.1
+pdfplumber==0.11.7
+pdfminer.six==20250506
+
+# Web framework
+fastapi==0.115.14
+uvicorn==0.35.0
+python-multipart==0.0.20
+
+# Data science
+pandas==2.3.0
 scikit-learn
-chromadb
-PyPDF2
-langchain-openai 
-sqlalchemy 
+matplotlib
+
+# Database
+sqlalchemy==2.0.41
 psycopg2-binary
+
+# AI agents (CrewAI)
 crewai
 crewai_tools
+
+# Web scraping and APIs
+feedparser
+wikipedia-api
+
+# UI framework
+gradio==5.35.0
+
+# Other utilities
+Jinja2==3.1.6
+Pygments==2.19.2
+rich==14.0.0
+tqdm==4.67.1
+typing_extensions==4.14.0
+pydantic==2.11.7
+tenacity==9.1.2
+
+# HTTP clients
+httpx==0.28.1
+aiohttp==3.12.13
+
+# Security
+cryptography==45.0.4
+bcrypt==4.3.0
+
+# File processing
+pillow==11.3.0
+pydub==0.25.1
+
+# Development tools
+ruff==0.12.1
