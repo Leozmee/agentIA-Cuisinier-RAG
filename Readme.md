@@ -7,7 +7,7 @@
 
 ## Fonctionnalités
 - **Recherche d'allergènes** : Identification précise des 14 allergènes majeurs européens
-- **Base de pizzas complète** : 30+ pizzas avec compositions détaillées
+- **Base de pizzas complète** : Plus de 30 pizzas avec compositions détaillées
 - **Interface Gradio** : Chat interactif et convivial
 - **Conformité réglementaire** : Respect du règlement UE n°1169/2011
 - **Recherche vectorielle** : Technologie ChromaDB + Ollama pour des réponses rapides
